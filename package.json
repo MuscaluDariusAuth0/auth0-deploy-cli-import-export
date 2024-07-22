@@ -1,0 +1,9 @@
+{
+  "scripts": {
+     "dev": "node dc.js"
+  },
+  "type":"module",
+  "dependencies": {
+    "auth0-deploy-cli": "^7.20.0"
+  }
+}
